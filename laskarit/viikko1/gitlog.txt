@@ -8,8 +8,6 @@ Date:   Fri Jan 31 01:55:21 2020 +0200
  2 files changed, 0 insertions(+), 0 deletions(-)
 
 commit cf24518b74a00d5bc17e5ce495dad95b56634b83
-Author: JP K <jiipsteri@gmail.com>
-Date:   Fri Jan 31 01:43:17 2020 +0200
 
     hakemisto tiedostoja ja filet 1 2 3
 
