@@ -104,12 +104,14 @@ Date:   Fri Jan 31 01:13:47 2020 +0200
  2 files changed, 1 insertion(+)
 
 commit fbf2fe1a2e22ffbcfe61a1df6e693e13ac55ac21
-Author: JP K <jiipsteri@gmail.com>
+
 Date:   Fri Jan 31 01:11:52 2020 +0200
 
     tiedosto.txt luotu
 
  tiedosto.txt | 0
  1 file changed, 0 insertions(+), 0 deletions(-)
+ 
+ Lisättiin tähän jotain
 
 
