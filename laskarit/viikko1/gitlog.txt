@@ -1,0 +1,115 @@
+commit ccd27c45140c62f482e73f69a420edddd56ff422
+Author: JP K <jiipsteri@gmail.com>
+Date:   Fri Jan 31 01:55:21 2020 +0200
+
+    sekava commit
+
+ tiedostoja/file2             | 0
+ tiedostoja/{file1 => file22} | 0
+ 2 files changed, 0 insertions(+), 0 deletions(-)
+
+commit cf24518b74a00d5bc17e5ce495dad95b56634b83
+Author: JP K <jiipsteri@gmail.com>
+Date:   Fri Jan 31 01:43:17 2020 +0200
+
+    hakemisto tiedostoja ja filet 1 2 3
+
+ tiedostoja/file1 | 0
+ tiedostoja/file2 | 0
+ tiedostoja/file3 | 0
+ 3 files changed, 0 insertions(+), 0 deletions(-)
+
+commit f9cd8f70f23654a5a659e541b356b5fa4d71e606
+Author: JP K <jiipsteri@gmail.com>
+Date:   Fri Jan 31 01:37:57 2020 +0200
+
+    eka kolmas modified
+
+ eka.txt    | 4 +++-
+ kolmas.txt | 2 +-
+ 2 files changed, 4 insertions(+), 2 deletions(-)
+
+commit 6167b868e40b5bfdbb3528989701114c1e3674e5
+Author: JP K <jiipsteri@gmail.com>
+Date:   Fri Jan 31 01:33:32 2020 +0200
+
+    rename tiedosto.txt eka.txt
+
+ tiedosto.txt => eka.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+commit b780c41eca05711b4c8da9734f06d76da2c3df22
+Author: JP K <jiipsteri@gmail.com>
+Date:   Fri Jan 31 01:31:37 2020 +0200
+
+    del toinen.txt
+
+ toinen.txt | 1 -
+ 1 file changed, 1 deletion(-)
+
+commit 98c9e1c4d4937042f445e83e45bde4c23aa476f6
+Author: JP K <jiipsteri@gmail.com>
+Date:   Fri Jan 31 01:27:58 2020 +0200
+
+    tiedosto.txt muutos
+
+ tiedosto.txt | 4 ++--
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+
+commit 3094c2d7e0a3f72c2562e0b942e2ee18b715071d
+Author: JP K <jiipsteri@gmail.com>
+Date:   Fri Jan 31 01:26:37 2020 +0200
+
+    tiedostoon tekstiä
+
+ tiedosto.txt | 4 ++++
+ 1 file changed, 4 insertions(+)
+
+commit 0dc0f39d290faaf6764d417069550e6cf8050bc8
+Author: JP K <jiipsteri@gmail.com>
+Date:   Fri Jan 31 01:19:32 2020 +0200
+
+    stuff hakemisto ja sisältö
+
+ stuff/jokin.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+commit 7373d7460caaa438d0311c0669e57640b830183f
+Author: JP K <jiipsteri@gmail.com>
+Date:   Fri Jan 31 01:17:25 2020 +0200
+
+    toinen ja kolmas mod
+
+ kolmas.txt | 1 +
+ toinen.txt | 1 +
+ 2 files changed, 2 insertions(+)
+
+commit 67cf229ae1cbae9cf949767c8852d240964eb378
+Author: JP K <jiipsteri@gmail.com>
+Date:   Fri Jan 31 01:16:13 2020 +0200
+
+    kolmas.txt luotu
+
+ kolmas.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+commit aa11c2eec1e81ef9100d656e5fd8d9942610ad91
+Author: JP K <jiipsteri@gmail.com>
+Date:   Fri Jan 31 01:13:47 2020 +0200
+
+    muutos ja lisäys
+
+ tiedosto.txt | 1 +
+ toinen.txt   | 0
+ 2 files changed, 1 insertion(+)
+
+commit fbf2fe1a2e22ffbcfe61a1df6e693e13ac55ac21
+Author: JP K <jiipsteri@gmail.com>
+Date:   Fri Jan 31 01:11:52 2020 +0200
+
+    tiedosto.txt luotu
+
+ tiedosto.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+
