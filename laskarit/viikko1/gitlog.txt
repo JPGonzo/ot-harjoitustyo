@@ -2,7 +2,6 @@ commit ccd27c45140c62f482e73f69a420edddd56ff422
 Author: JP K <jiipsteri@gmail.com>
 Date:   Fri Jan 31 01:55:21 2020 +0200
 
-    sekava commit
 
  tiedostoja/file2             | 0
  tiedostoja/{file1 => file22} | 0
